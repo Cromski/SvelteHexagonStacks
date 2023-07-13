@@ -2,4 +2,4 @@
     import Hexagon from '../components/Hexagon.svelte';
 </script>
 
-<Hexagon />
+<Hexagon text={"Aktiviteter"} imgPath={"/karate.jpg"}/>
