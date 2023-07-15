@@ -4,7 +4,7 @@
   
 </script>
 
-<div class=" w-[320px] grid grid-cols-2 mt-20">
+<div class=" w-[320px] grid grid-cols-2 mt-20  ">
 
     <Hexagon right={160} mt={0} text="Aktiviteter" imgPath="/karate.jpg" value={1} />
     <Hexagon right={160} mt={0} text="Aktiviteter" imgPath="/karate.jpg" value={2} />
